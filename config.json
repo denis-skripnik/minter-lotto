@@ -1,0 +1,9 @@
+{
+    "admins": [123456789],
+"minter_api": "https://api.minter.one/",
+"minter_address": "Mx...",
+"seed_frase": "stand mirror soda maid false dry opinion casual ...",
+"bot_api_key": "111111111:aaaaaaaaa",
+"bot_login": "lottobot",
+"chats": [-1097267345, -1054617278493, -1001234567890]
+}

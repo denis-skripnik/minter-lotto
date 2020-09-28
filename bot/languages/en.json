@@ -1,0 +1,19 @@
+{
+    "start": "Start",
+    "home": "Home",
+    "lang": "Select language",
+    "selected_language": "Selected language: English.",
+    "back": "Back",
+    "cancel": "Cancel",
+    "working_type": "Operating mode",
+    "in_time": "by time",
+"in_amount": "by amount",
+    "gamers_addresses": "The addresses of the players",
+    "fund_percent": "Percent from fund",
+    "leaders_count": "Number of winners",
+    "status": "Status",
+"check_subscribes": "Check Subscriptions",
+"minter_address": "Enter your Minter wallet",
+"enter_mx": "Please enter your BIP address, it will be added to bots database.",
+"take_part": "participate"
+}
