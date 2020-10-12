@@ -2,7 +2,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "big-integer": "^1.6.48",
-    "minter-js-sdk": "^0.31.0",
+    "minter-js-sdk": "latest",
     "minterjs-wallet": "^4.0.4",
     "mongodb": "latest",
     "telebot": "^1.2.6"
