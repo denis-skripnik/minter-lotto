@@ -104,7 +104,7 @@ await getWinners(gamers, block, state.leaders_count, state.fund_percent);
     let transactions = block.transactions
 if (transactions.length > 0) {
                 for (let tr of transactions) {
-if (tr.data.coin === "BIP" && tr.data.value >= 1 && tr.data.to === conf.minter_address) {
+if (tr.data.coin.symbol === "BIP" && tr.data.value >= 1 && tr.data.to === conf.minter_address) {
     let user = await gdb.getUserFromMX(tr.from);
 if (user) {
     let wallet = await wdb.getWallet(tr.from);
